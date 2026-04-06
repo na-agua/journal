@@ -7,3 +7,15 @@ status: seedling
 ---
 
 Write freely here...
+
+
+// ── YOUR NOTES ─────────────────────
+
+{
+  title: "Your note title",
+  url: "your-filename.md",
+  date: "2026-04-06",
+  description: "One sentence.",
+  tags: ["health", "body"],
+  status: "seedling"
+},
